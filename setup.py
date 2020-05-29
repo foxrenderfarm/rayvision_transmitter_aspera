@@ -22,8 +22,8 @@ setup(
     description=("Aspera transfer tool, including window and centos versions"),
     entry_points={},
     package_data={
-        'rayvision_transmitter_aspera': ["./rayvision_transmitter-win/*", "./rayvision_transmitter-win/*/*",
-                                         "./rayvision_transmitter-win/*/*/*",
+        'rayvision_transmitter_aspera': ["./rayvision_transmitter_win/*", "./rayvision_transmitter_win/*/*",
+                                         "./rayvision_transmitter_win/*/*/*",
                                          "./rayvision_transmitter_centos/*/*", "./rayvision_transmitter_centos/*"],
     },
     classifiers=[
