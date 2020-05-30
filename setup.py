@@ -15,7 +15,7 @@ setup(
     name="rayvision_transmitter_aspera",
     author="Shenzhen Rayvision Technology Co., Ltd",
     author_email="developer@rayvision.com",
-    version="1.1.2",
+    version="1.1.3",
     url="",
     package_dir={"": "."},
     packages=find_packages("."),
@@ -24,7 +24,7 @@ setup(
     package_data={
         'rayvision_transmitter_aspera': ["./rayvision_transmitter_win/*", "./rayvision_transmitter_win/*/*",
                                          "./rayvision_transmitter_win/*/*/*",
-                                         "./rayvision_transmitter_centos/*/*", "./rayvision_transmitter_centos/*"],
+                                         "./rayvision_transmitter_centos/*/*","./rayvision_transmitter_centos/*","./rayvision_transmitter_centos/*/*/*"],
     },
     classifiers=[
         "Programming Language :: Python",
