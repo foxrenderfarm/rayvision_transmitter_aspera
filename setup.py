@@ -15,7 +15,7 @@ setup(
     name="rayvision_transmitter_aspera",
     author="Shenzhen Rayvision Technology Co., Ltd",
     author_email="developer@rayvision.com",
-    version="1.1.3",
+    version="1.1.5",
     url="",
     package_dir={"": "."},
     packages=find_packages("."),
